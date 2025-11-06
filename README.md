@@ -9,7 +9,7 @@
 
 **Redefining the Creator Economy Through Blockchain Innovation**
 
-[🌐 Website](https://vre.life) • [📄 Whitepaper](https://vre.life/whitepaper) • [💬 Community](https://twitter.com/VREToken) • [📊 Explorer](https://solscan.io/token/FJHQH4WTDukwyeFov2H7U9GZSiy4PPYLeuMGpbCujZd9)
+[🌐 Website](https://vrecoin.com) • [📄 Whitepaper](https://vrecoin.com/whitepaper) • [💬 Community](https://twitter.com/VREToken) • [📊 Explorer](https://solscan.io/token/FJHQH4WTDukwyeFov2H7U9GZSiy4PPYLeuMGpbCujZd9)
 
 </div>
 
@@ -166,9 +166,9 @@ VRE serves as the universal currency across the entire ecosystem. From content m
 
 ### Buy VRE Tokens
 
-1. Visit [vre.life](https://vre.life)
+1. Visit [vrecoin.com](https://vrecoin.com)
 2. Connect your Solana wallet
-3. Send SOL or USDC to purchase VRE at $0.20
+3. Send SOL to purchase VRE at $0.20 (Inicial Presale Price)
 4. Receive VRE tokens directly to your wallet
 
 ### Add VRE to Your Wallet
@@ -213,12 +213,12 @@ VRE token holders will have governance rights over:
 
 ## 🔗 Important Links
 
-- 🌐 **Website**: https://vre.life
-- 📄 **Whitepaper**: https://vre.life/whitepaper
-- 🐦 **Twitter**: https://twitter.com/VREToken
+- 🌐 **Website**: https://vrecoin.com
+- 📄 **Whitepaper**: https://vrecoin.com/whitepaper
+- 🐦 **Twitter**: https://twitter.com/VREconomics
 - 💬 **Discord**: Coming Soon
 - 📱 **Telegram**: Coming Soon
-- 📧 **Email**: contact@vre.life
+- 📧 **Email**: contact@vrecoin.com
 
 ---
 
