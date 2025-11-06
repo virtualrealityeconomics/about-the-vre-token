@@ -9,7 +9,7 @@
 
 **Redefining the Creator Economy Through Blockchain Innovation**
 
-[🌐 Website](https://vrecoin.com) • [📄 Whitepaper](https://vrecoin.com/whitepaper) • [💬 Community](https://twitter.com/VREToken) • [📊 Explorer](https://solscan.io/token/FJHQH4WTDukwyeFov2H7U9GZSiy4PPYLeuMGpbCujZd9)
+[🌐 Website](https://vrecoin.com) • [📄 Whitepaper](https://vrecoin.com/whitepaper) • [💬 Community](https://twitter.com/VREconomics) • [📊 Explorer](https://solscan.io/token/FJHQH4WTDukwyeFov2H7U9GZSiy4PPYLeuMGpbCujZd9)
 
 </div>
 
